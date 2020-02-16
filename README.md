@@ -8,7 +8,7 @@ query id, subject id, % identity, alignment length, mismatches, gap opens, q. st
 
 ### Usage
 
-$ python filter_blast.py -i input_fle -p 90 (default) -e 0.001 (default) -c 60 (default) -a 200 (default)  -o output_filename
+$ python filter.blast.results.py -i input_fle -p 90 (default) -e 0.001 (default) -c 60 (default) -a 200 (default)  -o output_filename
 
 
 

@@ -1,2 +1,2 @@
-# filtering.blast.results
+# Blast results filtering
 Python script to filter blast results

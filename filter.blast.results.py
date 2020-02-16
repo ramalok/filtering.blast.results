@@ -2,7 +2,7 @@ __author__ = 'Lidia Montiel & Ramiro Logares'
 
 """
 
-Script to filter the taxonomy given by BLAST after running the Uparse pipeline. I will filter only based on read quality
+Script to filter BLAST output.
 
 The input blast files is as following:
 
